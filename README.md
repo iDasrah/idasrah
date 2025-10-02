@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey 👋
 
-<!--
-**iDasrah/idasrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moi c'est Mathéo, étudiant en informatique.
 
-Here are some ideas to get you started:
+## Ce que je fais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'apprends le développement web, principalement du full-stack. Je code surtout avec **TypeScript**, **React** pour le front et **NestJS** avec **Prisma** pour le back. J'utilise aussi **TanStack Router** quand je veux gérer le routing proprement.
+
+En dehors du web, je m'intéresse pas mal au développement de jeux vidéo. C'est un domaine que j'explore quand j'ai le temps.
+
+## Stack
+
+- **Frontend:** React, TypeScript
+- **Backend:** NestJS, Prisma
+- **Tools:** Suite JetBrains (WebStorm surtout)
+
+## Contact
+
+Si tu veux discuter ou échanger :
+
+- 📧 [contact@matheo-picouleau.fr](mailto:contact@matheo-picouleau.fr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mathéo-p-767812250)
+
+---
+
+*Actuellement en train d'apprendre et de construire des projets pour progresser.*
